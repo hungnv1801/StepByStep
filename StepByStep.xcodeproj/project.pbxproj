@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E4ED63926CD5E9E00C872E5 /* xxx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4ED63826CD5E9E00C872E5 /* xxx.swift */; };
 		0EE72BE026C8E5E40031BAD4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE72BDF26C8E5E40031BAD4 /* AppDelegate.swift */; };
 		0EE72BE226C8E5E40031BAD4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE72BE126C8E5E40031BAD4 /* SceneDelegate.swift */; };
 		0EE72BE426C8E5E40031BAD4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EE72BE326C8E5E40031BAD4 /* ViewController.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E4ED63826CD5E9E00C872E5 /* xxx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xxx.swift; sourceTree = "<group>"; };
 		0EE72BDC26C8E5E40031BAD4 /* StepByStep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StepByStep.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EE72BDF26C8E5E40031BAD4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0EE72BE126C8E5E40031BAD4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				0EE72BE826C8E5E80031BAD4 /* Assets.xcassets */,
 				0EE72BEA26C8E5E80031BAD4 /* LaunchScreen.storyboard */,
 				0EE72BED26C8E5E80031BAD4 /* Info.plist */,
+				0E4ED63826CD5E9E00C872E5 /* xxx.swift */,
 			);
 			path = StepByStep;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				0EE72C1226CAACF80031BAD4 /* ViewController1.swift in Sources */,
 				0EE72BE026C8E5E40031BAD4 /* AppDelegate.swift in Sources */,
 				0EE72BE226C8E5E40031BAD4 /* SceneDelegate.swift in Sources */,
+				0E4ED63926CD5E9E00C872E5 /* xxx.swift in Sources */,
 				0EE72C1026CAACAE0031BAD4 /* PageViewController.swift in Sources */,
 				0EE72C1626CAAD180031BAD4 /* ViewController3.swift in Sources */,
 				0EE72C1426CAAD070031BAD4 /* ViewController2.swift in Sources */,
